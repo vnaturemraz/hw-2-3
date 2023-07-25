@@ -38,7 +38,7 @@
     //case '8':
       //  alert('Лето');
         //break;
-       
+   
         //  case '9':
           //case '10':
           //case '11':
